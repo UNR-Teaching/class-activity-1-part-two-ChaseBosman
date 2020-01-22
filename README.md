@@ -1,5 +1,6 @@
 # Class Activity 1 part two
 
+## Chase Bosman & Ilya Kuznetsov 
 Your first paired programming problem!
 
 ### Problem
